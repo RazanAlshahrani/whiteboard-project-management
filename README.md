@@ -29,4 +29,4 @@ The report includes:
 - Risk register and risk matrix.
 
 ## Project Report
-[View the project report](./project.pdf)
+[View the project report](https://github.com/RazanAlshahrani/whiteboard-project-management/blob/main/whiteboard-project-management.pdf)
