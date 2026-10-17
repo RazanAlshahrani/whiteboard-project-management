@@ -1,4 +1,4 @@
-# Whiteboard — Project Management
+# Whiteboard - Project Management
 
 ## Overview
 Whiteboard is a university group project focused on planning an academic notification system to improve communication between students, instructors, and administrators.
