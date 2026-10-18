@@ -7,6 +7,8 @@ The proposed system aims to provide timely notifications about assignments, exam
 
 This repository contains the project planning report. It documents the proposed system and its management plan rather than a working software application.
 
+This project was inspired by our personal experience using Blackboard as university students, particularly occasional delays in academic notifications. The proposed system is an independent academic project and is not affiliated with Blackboard.
+
 ## Project Objectives
 - Address delayed academic notifications.
 - Support notification delivery through multiple channels.
